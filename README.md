@@ -45,7 +45,7 @@ npm / yarn / pnpm
 
 # Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/nexus.git
+git clone https://github.com/YigitAlpYildirim/Nexus.git
 
 # Navigate to the project directory
 
