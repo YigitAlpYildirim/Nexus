@@ -2,8 +2,6 @@
 
 _The all-in-one workspace where your ideas, knowledge, and projects converge._
 
-[Report Bug](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues) · [Request Feature](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues)
-
 ---
 
 ### 🚀 About The Project
