@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Nexus Connection Icon for Dark Theme">
+  <title>Nexus Connection Icon for Dark Theme</title>
+  
+  <circle cx="50" cy="50" r="20" stroke="#BFBFBF" stroke-width="2.5"/>
+  <circle cx="50" cy="50" r="10" fill="#E0E0E0"/>
+  
+  <line x1="50" y1="30" x2="50" y2="10" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="70" x2="50" y2="90" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="50" x2="10" y2="50" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="50" x2="90" y2="50" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+
+  <path d="M64.1421 35.8579L78.2843 21.7157" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M35.8579 64.1421L21.7157 78.2843" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M35.8579 35.8579L21.7157 21.7157" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M64.1421 64.1421L78.2843 78.2843" stroke="#B0B0B0" stroke-width="1.5" stroke-linecap="round"/>
+
+  <circle cx="50" cy="10" r="5" fill="#BFBFBF"/>
+  <circle cx="50" cy="90" r="5" fill="#BFBFBF"/>
+  <circle cx="10" cy="50" r="5" fill="#BFBFBF"/>
+  <circle cx="90" cy="50" r="5" fill="#BFBFBF"/>
+  
+  <circle cx="21.7157" cy="21.7157" r="5" fill="#BFBFBF"/>
+  <circle cx="78.2843" cy="21.7157" r="5" fill="#BFBFBF"/>
+  <circle cx="21.7157" cy="78.2843" r="5" fill="#BFBFBF"/>
+  <circle cx="78.2843" cy="78.2843" r="5" fill="#BFBFBF"/>
+  
+</svg>
