@@ -1,22 +1,8 @@
-\<div align="center"\>
+# Nexus
 
-\<h1 align="center"\>Nexus\</h1\>
+_The all-in-one workspace where your ideas, knowledge, and projects converge._
 
-\<p align="center"\>
-\<i\>The all-in-one workspace where your ideas, knowledge, and projects converge.\</i\>
-\<br /\>
-\<br /\>
-\<a href="[https://github.com/YigitAlpYildirim/Nexus/issues](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues)"\>Report Bug\</a\>
-·
-\<a href="[https://github.com/YigitAlpYildirim/Nexus/issues](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues)"\>Request Feature\</a\>
-\</p\>
-
-\<p align="center"\>
-\<a href="YOUR_LIVE_DEMO_URL_HERE"\>
-\<img src="[https://via.placeholder.com/1200x675/1F2937/FFFFFF?text=Nexus+Application+Screenshot](https://www.google.com/search?q=https://via.placeholder.com/1200x675/1F2937/FFFFFF%3Ftext%3DNexus%2BApplication%2BScreenshot)" alt="Nexus Project Screenshot" style="border-radius: 8px; width: 80%;"\>
-\</a\>
-\</p\>
-\</div\>
+[Report Bug](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues) · [Request Feature](https://www.google.com/search?q=https://github.com/YigitAlpYildirim/Nexus/issues)
 
 ---
 
