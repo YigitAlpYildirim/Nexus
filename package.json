@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && npx convex dev",
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --log-level silent --write \"**/*.{js,jsx,ts,tsx,json,md}\""
